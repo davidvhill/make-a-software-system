@@ -4,12 +4,25 @@
 Make based skeleton for getting a project started with applications & libraries.
 
 ## Components
+Describe your software system and the problem it solves.
+
 ### software-app-a
+Description of software-app-a.
+
 ### software-app-b
+Description of software-app-b.
+
 ### software-app-c
+Description of software-app-c.
+
 ### software-lib-a
+Description of software-lib-a.
+
 ### software-lib-b
+Description of software-lib-b.
+
 ### software-lib-c
+Description of software-lib-c.
 
 ## Code
 * ```git clone https://github.com/davidvhill/make-a-software-system```
